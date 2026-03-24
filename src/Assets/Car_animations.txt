@@ -1,0 +1,65 @@
+:animation move_left
+:sprite_sheet F1GameSprites
+:size 16 16
+:fps 15
+
+:frame_keys 4
+
+car_left_idle
+car_left_idle
+car_left_idle
+car_left_idle
+
+:animation move_right
+:sprite_sheet F1GameSprites
+:size 16 16
+:fps 15
+
+:frame_keys 4
+
+car_right_idle
+car_right_idle
+car_right_idle
+car_right_idle
+
+:animation move_up
+:sprite_sheet F1GameSprites
+:size 16 16
+:fps 15
+
+:frame_keys 4
+
+car_up_idle
+car_up_idle
+car_up_idle
+car_up_idle
+
+:animation move_down
+:sprite_sheet F1GameSprites
+:size 16 16
+:fps 15
+
+:frame_keys 4
+
+car_down_idle
+car_down_idle
+car_down_idle
+car_down_idle
+
+:animation death
+:sprite_sheet F1GameSprites
+:size 16 16
+:fps 12
+
+:frame_keys 9
+
+car_death_0
+car_death_1
+car_death_2
+car_death_3
+car_death_4
+car_death_5
+car_death_6
+car_death_7
+car_death_8
+

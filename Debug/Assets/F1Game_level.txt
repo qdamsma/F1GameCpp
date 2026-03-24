@@ -1,0 +1,107 @@
+:bg_image pacman_level.bmp
+
+:tile 
+:tile_symbol w
+:tile_collision 1
+:tile_width 8
+
+:tile
+:tile_symbol -
+:tile_collision 0
+:tile_width 8
+
+:tile
+:tile_symbol f
+:tile_collision 0
+:tile_width 8
+
+:tile
+:tile_symbol b
+:tile_collision 0
+:tile_width 8
+:tile_exclude_pellet 1
+:tile_bronze_spawn_point 1
+:tile_offset -5 0
+
+:tile
+:tile_symbol m
+:tile_collision 0
+:tile_width 8
+:tile_exclude_pellet 1
+:tile_silver_spawn_point 1
+:tile_offset 0 0
+
+:tile
+:tile_symbol k
+:tile_collision 0
+:tile_width 8
+:tile_exclude_pellet 1
+:tile_gold_spawn_point 1
+:tile_offset -1 0
+
+:tile
+:tile_symbol c
+:tile_collision 0
+:tile_width 8
+:tile_exclude_pellet 1
+:tile_clyde_spawn_point 1
+:tile_offset 0 0
+
+
+:tile
+:tile_symbol o
+:tile_collision 0
+:tile_width 8
+:tile_exclude_pellet 1
+
+:tile
+:tile_symbol c
+:tile_collision 0
+:tile_width 8
+:tile_car_spawn_point 1
+:tile_offset -4 0
+
+:tile
+:tile_symbol s
+:tile_collision 1
+:tile_width 4
+
+
+:tile_height 8
+
+:layout_offset -32 20
+
+:layout 32
+
+ooooswwwwwwwwwwwwwwwwwwwwwwwwwwws
+oooosw------------f------------ws
+oooosw------------f------------ws
+oooosw--k----c----f------------ws
+oooosw------------f------------ws
+oooosw------------f------------ws
+oooosw-----wwwwwwwwwwwww-------ws
+oooosw-----w-------------------ws
+oooosw-----w-------------------ws
+oooosw--m--w-------------------ws
+oooosw-----w-------------------ws
+oooosw-----w-------------------ws
+oooosw-----w--------wwwwwwwwwwwws
+oooosw-----w-------------------ws
+oooosw-----w-------------------ws
+oooosw--c--w-------------------ws
+oooosw-----w-------------------ws
+oooosw-----w-------------------ws
+oooosw-----wwwwwwwwwwwwww------ws
+oooosw-----woooooooooooow------ws
+oooosw-----woooooooooooow------ws
+oooosw-----woooooooooooow------ws
+oooosw--b--woooooooooooow------ws
+oooosw-----woooooooooooow------ws
+oooosw-----woooooooooooow------ws
+oooosw-----wwwwwwwwwwwwww------ws
+oooosw-------------------------ws
+oooosw-------------------------ws
+oooosw-------------------------ws
+oooosw-------------------------ws
+oooosw-------------------------ws
+ooooswwwwwwwwwwwwwwwwwwwwwwwwwwws

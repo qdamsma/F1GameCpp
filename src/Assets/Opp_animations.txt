@@ -1,0 +1,138 @@
+:animation opp_movement_left
+:sprite_sheet F1GameSprites
+:size 16 16
+:fps 8
+
+:overlay opp_eyes_left
+
+:frame_keys 2
+
+opp_body_0
+opp_body_1
+
+:animation opp_movement_right
+:sprite_sheet F1GameSprites
+:size 16 16
+:fps 8
+
+:overlay opp_eyes_right
+
+:frame_keys 2
+
+opp_body_0
+opp_body_1
+
+:animation opp_movement_up
+:sprite_sheet F1GameSprites
+:size 16 16
+:fps 8
+
+:overlay opp_eyes_up
+
+:frame_keys 2
+
+opp_body_0
+opp_body_1
+
+:animation opp_movement_down
+:sprite_sheet F1GameSprites
+:size 16 16
+:fps 8
+
+:overlay opp_eyes_down
+
+:frame_keys 2
+
+opp_body_0
+opp_body_1
+
+:animation opp_vulnerable
+:sprite_sheet F1GameSprites
+:size 16 16
+:fps 5
+
+:overlay opp_vulnerable_face
+
+:frame_keys 2
+
+opp_body_0
+opp_body_1
+
+:frame_colors 2
+
+0 0 255 255
+0 0 255 255
+
+:animation opp_vulnerable_ending
+:sprite_sheet F1GameSprites
+:size 16 16
+:fps 5
+
+:overlay opp_vulnerable_face
+
+:frame_keys 2
+
+opp_body_0
+opp_body_1
+
+:frame_colors 2
+
+255 255 255 255
+0 0 255 255
+
+:overlay_colors 2
+
+255 0 0 255
+255 255 255 255
+
+:animation opp_dead_left
+:sprite_sheet F1GameSprites
+:size 16 16
+:fps 10
+
+:frame_keys 1
+
+opp_eyes_left
+
+:frame_colors 1
+
+255 255 255 255
+
+:animation opp_dead_right
+:sprite_sheet F1GameSprites
+:size 16 16
+:fps 10
+
+:frame_keys 1
+
+opp_eyes_right
+
+:frame_colors 1
+
+255 255 255 255
+
+:animation opp_dead_up
+:sprite_sheet F1GameSprites
+:size 16 16
+:fps 10
+
+:frame_keys 1
+
+opp_eyes_up
+
+:frame_colors 1
+
+255 255 255 255
+
+:animation opp_dead_down
+:sprite_sheet F1GameSprites
+:size 16 16
+:fps 10
+
+:frame_keys 1
+
+opp_eyes_down
+
+:frame_colors 1
+
+255 255 255 255
